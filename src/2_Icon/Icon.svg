@@ -31,9 +31,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="3.3638608"
-     inkscape:cx="45.136436"
-     inkscape:cy="64.72584"
+     inkscape:zoom="9.5144352"
+     inkscape:cx="30.339864"
+     inkscape:cy="50.292003"
      inkscape:window-width="2256"
      inkscape:window-height="1380"
      inkscape:window-x="-12"
@@ -53,11 +53,11 @@
        inkscape:collect="always"
        id="linearGradient3140">
       <stop
-         style="stop-color:#0088aa;stop-opacity:1"
+         style="stop-color:#6666ff;stop-opacity:1"
          offset="0"
          id="stop3136" />
       <stop
-         style="stop-color:#00aad4;stop-opacity:1"
+         style="stop-color:#008080;stop-opacity:1"
          offset="1"
          id="stop3138" />
     </linearGradient>
